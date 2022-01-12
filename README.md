@@ -1,15 +1,13 @@
-Read Me for Financial Simulation by Chris Callahan
-
 #How to use:
 
-While in the file, FinancialSimulation.c file, use command:
+While in the folder of FinancialSimulation.c file, use command:
 gcc && ./a.out inputFileName.txt outputFileName.txt
 
 Where inputFileName and outputFileName are the names of your pre-existing input
 and output files you wish to use. The output of the program will be printed to
 the output file.
 
-The input file should have the format:
+The input file should have the following format:
   string name (do not use "" here or the name will include "" in the output)
   int isFL (where 0 is not financially literate, and 1 is financially literate)
   int mortgageTerm
