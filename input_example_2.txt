@@ -1,0 +1,38 @@
+john
+0
+30
+0
+0
+5000
+0
+52500
+0
+0
+0.01
+0.03
+0.05
+1
+950
+210000
+69000
+
+
+
+This is for NFL person
+char name[128];
+int isFL; //0 = NFL, 1 = FL
+int mortgageTerm;
+int yearsWithDebt;
+int yearsRented;
+double savings;
+double checkings;
+double debt;
+double loan;
+double debtPaid;
+double savingsIR;
+double debtIR;
+double houseIR;
+double addlPay;
+double rentAmt;
+double mortgageAmount;
+double yearlySalary;
