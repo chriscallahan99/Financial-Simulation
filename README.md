@@ -1,6 +1,6 @@
 **How to use:**
 
-While in the folder of FinancialSimulation.c file, use command:
+While in the folder of FinancialSimulation.c file, use command: (Note you must enter a second arg for the outputFileName or else a segfault error will occur).
 gcc && ./a.out inputFileName.txt outputFileName.txt
 
 Where inputFileName and outputFileName are the names of your pre-existing input
