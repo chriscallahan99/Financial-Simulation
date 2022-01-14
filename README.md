@@ -1,4 +1,4 @@
-#How to use:
+**How to use:**
 
 While in the folder of FinancialSimulation.c file, use command:
 gcc && ./a.out inputFileName.txt outputFileName.txt
@@ -28,7 +28,7 @@ The input file should have the following format:
 
 See input files for examples of correctly formatted input files.
 
-#Explanation:
+**Explanation:**
 
 This program is designed to model the wealth of a person who is or is not
 financially literate over 40 years, where wealth = savings + checking - debt - loan.
@@ -46,7 +46,7 @@ year 40 displaying the final wealth of the person at the end of 40 years, and
 the amount of debt in total paid, and over how many years this person was in
 debt (not counting the loan on the house).
 
-#Extensions and Limitations:
+**Extensions and Limitations:**
 
 In addition to all the functions added for the project, I also included a
 printPerson function, which will print the person's savings, checkings, debt, and
